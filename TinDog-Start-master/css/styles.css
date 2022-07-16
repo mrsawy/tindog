@@ -1,0 +1,42 @@
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 2; 
+    color: antiquewhite;
+    margin-bottom: 6%;
+}
+
+
+
+/***************class***************/
+.inline-block{
+    display: inline-block;
+}
+.container-fluid{
+    padding: 3% 15% 0 15%;
+}
+.dog{
+
+    transform: rotate(20deg) translateX(120px) translatey(-20px);;
+    height: 650px;
+    margin-top: 0%;
+    margin-bottom: 10%;
+
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-family: "Ubuntu";
+    font-weight: 400;
+}
+.nav-item{
+    padding: 0 18px;
+    font-size: 1.2rem;
+}
+.col-lg-6{
+    overflow: hidden;
+}
+/***************id***************/
+#title{
+    background-color: #ff4c68;
+}
+
